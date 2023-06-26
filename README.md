@@ -1,4 +1,4 @@
-[![MasterHead](https://www.training.com.au/wp-content/uploads/Full-Stack-Developer-1.jpeg)
+![MasterHead](https://www.training.com.au/wp-content/uploads/Full-Stack-Developer-1.jpeg)
 <h1 align="center">Hi 👋, I'm Barış UYGUN</h1>
 <h3 align="center">I am a specialist IT professional and Technical Support Engineer with different skills in Information Technology.</h3>
 
